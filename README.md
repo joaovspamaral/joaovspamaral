@@ -1,36 +1,28 @@
 # João Victor 🚀
-**Programador Full Stack e Desenvolvedor de Soluções em Automação, IA e Sistemas**
-
-Apaixonado por transformar ideias em soluções inteligentes e escaláveis.  
-Atuo no desenvolvimento de projetos próprios e também em soluções sob demanda para empresas e clientes.
+<p style="color:purple; font-size:30px;"><b>Desenvolvedor Full Stack e Criador de Soluções em Automação e IA</b></p>
 
 ---
 
-## 🧠 **Sobre mim**
-- 💻 Experiência com **Python, JavaScript, C++ e tecnologias Web**
-- 🚀 Foco em automação de processos, APIs e integrações
-- 🎮 Interesse também por IA, bots e desenvolvimento de sistemas personalizados
-- 📈 Buscando sempre criar soluções que entregam **valor real e escalável**
+## 🟣 **Sobre Mim**
+<p style="background-color:#e0b3ff; padding:10px; border-radius:10px;">
+Apaixonado por criar soluções inteligentes e automatizadas. Trabalho com Python, JavaScript, C++, focando em automação, IA e sistemas web.
+</p>
 
 ---
 
-## 🛠 **Tecnologias e Ferramentas**
-- **Python** → Automação, APIs, bots, análise de dados
-- **JavaScript (Node.js, Front-end)** → Sites, aplicações web e scripts
-- **C++** → Algoritmos, aplicações de alta performance
-- **Git e GitHub** → Controle de versões e colaboração
-- **HTML/CSS** → Páginas e protótipos rápidos
-- **SQL / NoSQL** → Banco de dados
+## 🧰 **Tecnologias**
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 📫 **Contato**
+## 📬 **Contato**
 - [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-victor-dos-santos-prudente-do-amaral-84a566176)
-- [Email](mailto:seuemail@exemplo.com)
-- [Portfólio de repositórios](https://github.com/seuusuario?tab=repositories)
+
 
 ---
 
-> 📌 Sempre aberto a novas oportunidades e colaborações.  
-> Me chame para conversar sobre projetos, freelas ou parcerias!
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer"/>
+</p>
